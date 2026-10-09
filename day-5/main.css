@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 900px;
+    margin: 30px auto 0 auto;
+    padding: 20px 30px;
+    display: flex;
+    text-align: center;
+    background-color: rgb(75, 162, 73);
+    justify-content: space-between;
+}
+.nav-items a span{
+    color: rgb(1, 11, 8);
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.center-img{
+    display: block;
+    margin: 30px auto;
+    width: 200px;
+
+}
+
+.main-class h1{
+    text-align: center;
+    margin: 30px 0 auto;
+}
+ .main-class p{
+    text-align: center;
+    margin-bottom:20px ;
+    margin-top: 30px;
+    font-size: 12px;
+ }
+
+ .main-class img{
+    display: block;
+    margin: 30px auto;
+    width: 500px;
+ }
+ .second-page img{
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+ }
+ .second-page p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+ }
+ .second-page .chamonatvali{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+    margin: 15px 0 auto;
+
+ }
+ .second-page .chamonatvali li{
+    margin: 0 15px;
+ }
+ 
+ .container{
+    background-color: rgb(229, 95, 155);
+    padding: 70px 30px;
+    width: 100%;
+ }
+ .content-section{
+    background-color: aliceblue;
+    width: 75%;
+    margin: 0 auto;
+    padding: 30px;
+ }
